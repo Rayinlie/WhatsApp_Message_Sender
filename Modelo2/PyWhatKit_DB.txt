@@ -1,0 +1,52 @@
+Date: 24/10/2023
+Time: 23:8
+Phone Number: +5511978314783
+Image: jurandir.png
+Caption: Check out this image!
+--------------------
+Date: 24/10/2023
+Time: 23:28
+Phone Number: +5511978314783
+Message: Olá, tudo bem? Estou enviando esta mensagem e imagem automaticamente!
+--------------------
+Date: 24/10/2023
+Time: 23:30
+Phone Number: +5511978314783
+Message: Olá, tudo bem? Estou enviando esta mensagem e imagem automaticamente!
+--------------------
+Date: 24/10/2023
+Time: 23:32
+Phone Number: +5511978314783
+Image: C:/Users/slpra/OneDrive/Imagens/Jurandir.png
+Caption: Olá, tudo bem? Estou enviando esta mensagem e imagem automaticamente!
+--------------------
+Date: 24/10/2023
+Time: 23:33
+Phone Number: +5511978314783
+Image: C:/Users/slpra/OneDrive/Imagens/Jurandir.png
+Caption: Olá, tudo bem? Estou enviando esta mensagem e imagem automaticamente!
+--------------------
+Date: 24/10/2023
+Time: 23:41
+Phone Number: +5511933255991
+Image: C:/Users/slpra/OneDrive/Imagens/Jurandir.png
+Caption: Teste
+--------------------
+Date: 24/10/2023
+Time: 23:43
+Phone Number: +5511978314783
+Image: C:/Users/slpra/OneDrive/Imagens/Jurandir.png
+Caption: Teste
+--------------------
+Date: 24/10/2023
+Time: 23:43
+Phone Number: +5511933255991
+Image: C:/Users/slpra/OneDrive/Imagens/Jurandir.png
+Caption: Teste
+--------------------
+Date: 24/10/2023
+Time: 23:44
+Phone Number: +5511978314783
+Image: C:/Users/slpra/OneDrive/Imagens/Jurandir.png
+Caption: Teste
+--------------------
